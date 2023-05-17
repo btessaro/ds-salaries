@@ -7,4 +7,4 @@ Main points:
 - Salaries are according to experience level. 
   -   Junior Data Scientists are paid 62k in average, as opposed to Expert Data Scientists which are paid an average of 200k.
   -   All experience levels had an increase of salaries over the years except for DS Expert salaries which saw a decrease in 2022.
-- Bigger companies pay bigger salaries! Although, if you are a lot of experience, you have big chances of getting a good salary even in a small company. 
+- Bigger companies pay bigger salaries!
